@@ -4,8 +4,8 @@
   <artifactId>hw0-guanyuw</artifactId>
   <version>0.0.2-SNAPSHOT</version>
   <scm>
-    <connection>scm:git:git://github.com/scriptkid85/hw0-gyw.git</connection>
-    <developerConnection>scm:git:git://github.com/scriptkid85/hw0-gyw.git</developerConnection>
+    <connection>scm:git:git@github.com/scriptkid85/hw0-gyw.git</connection>
+    <developerConnection>scm:git:git@github.com/scriptkid85/hw0-gyw.git</developerConnection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
